@@ -12,7 +12,7 @@ steps:
     architecture: 'x64'
 
 - task: PythonScript@0
-  displayName: 'Export project path'
+  displayName: 'Export project path myron'
   inputs:
     scriptSource: 'inline'
     script: |
